@@ -1,0 +1,306 @@
+{
+  "category": "FAE_FOLKLORE",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/tommyknockers",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "tommyknockers",
+    "name": "Tommyknockers",
+    "aliases": [
+      {
+        "name": "Tommy Knockers",
+        "meaning": "Alternate spelling"
+      },
+      {
+        "name": "Knockers",
+        "region": "Cornish origin",
+        "meaning": "Original Cornish name"
+      }
+    ],
+    "category": "FAE_FOLKLORE",
+    "subcategory": "American Mining Spirits",
+    "tags": [
+      "mining",
+      "american-folklore",
+      "cornish-immigrant",
+      "knocking",
+      "warning-spirits",
+      "helpful",
+      "underground",
+      "western-us"
+    ],
+    "status": "traditional_folklore",
+    "description": {
+      "summary": "American mine spirits brought by Cornish immigrants, small bearded creatures in mining clothes who knock on walls to warn of cave-ins and lead miners to ore.",
+      "full": "Tommyknockers are American mine spirits, an Americanization of the Cornish 'knockers' brought to the United States by Cornish immigrant miners in the 19th century. Described as small, bearded figures dressed in mining clothes, tommyknockers knock on mine walls to communicate with miners. Their knocking patterns carry specific meanings: three knocks indicate a rich ore vein nearby, while rapid, frantic knocking warns of imminent danger—cave-ins, gas pockets, or other hazards—signaling miners to leave immediately. Miners who showed respect by leaving lunch scraps and maintaining proper mine etiquette were helped by tommyknockers, while those who disrespected them faced misleading or danger. The belief was particularly strong in Western U.S. hard rock mining regions (Colorado, Nevada, California) and Pennsylvania coal mines. Miners credited tommyknockers with saving lives through their warnings, with reports continuing into the early 20th century. Stephen King's 1987 horror novel 'The Tommyknockers' gave a darker interpretation to the folklore. Tommyknockers represent important American mining community tradition and Cornish immigrant cultural heritage."
+    },
+    "etymology": {
+      "origin": "Americanization of Cornish 'knockers,' with 'Tommy' being common familiar name prefix in American English",
+      "meaning": "American version of 'one who knocks' (mine wall knockers)",
+      "first_use": "1800s with Cornish immigration to America"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "FAE_FOLKLORE",
+      "type": "Mining Spirit",
+      "subtype": "Helpful/Warning Spirit",
+      "variant": "American (Cornish immigrant origin)"
+    },
+    "related_phenomena": [
+      {
+        "id": "knocker",
+        "name": "Knocker",
+        "relationship": "origin",
+        "description": "Original Cornish mining spirits"
+      },
+      {
+        "id": "kobold",
+        "name": "Kobold",
+        "relationship": "similar",
+        "description": "German mine spirit, similar concept"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "height": {
+        "min": 0.6,
+        "max": 0.6,
+        "unit": "meters",
+        "confidence": "medium",
+        "description": "Small, approximately 2 feet"
+      },
+      "features": [
+        {
+          "feature": "Beard",
+          "description": "Bearded like miners",
+          "frequency": "always"
+        },
+        {
+          "feature": "Mining clothes",
+          "description": "Dressed in traditional mining work clothes",
+          "frequency": "always"
+        },
+        {
+          "feature": "Size",
+          "description": "Small stature, around 2 feet tall",
+          "frequency": "always"
+        }
+      ],
+      "morphology": "Small humanoid figures resembling miniature miners. Bearded, dressed in mining attire."
+    },
+    "abilities": [
+      {
+        "ability": "Warning knocks",
+        "description": "Knock on mine walls to warn of danger",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Ore indication",
+        "description": "Three knocks indicate rich ore vein location",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Danger detection",
+        "description": "Rapid knocking warns of imminent cave-in or danger",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Life-saving warnings",
+        "description": "Credited with saving miners' lives through timely warnings",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      }
+    ],
+    "behavior": {
+      "activity_period": "any",
+      "disposition": "helpful",
+      "social_structure": "group",
+      "habitat_preference": [
+        "underground mines",
+        "tunnels",
+        "mining shafts"
+      ],
+      "patterns": [
+        "Knock on walls to communicate",
+        "Three knocks = rich vein nearby",
+        "Rapid knocking = danger, leave immediately",
+        "Helpful to respectful miners",
+        "Accept lunch scrap offerings"
+      ]
+    },
+    "communication": {
+      "three_knocks": "Indicates rich ore vein in that direction",
+      "rapid_knocking": "Warning of imminent danger (cave-in, gas, etc.) - leave immediately",
+      "general_knocking": "Presence acknowledged, general communication"
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "American mining regions where Cornish immigrants settled, particularly Western United States hard rock mines and Pennsylvania coal regions.",
+      "continents": ["North America"],
+      "countries": ["United States"],
+      "regions": [
+        "Colorado (hard rock mining)",
+        "Nevada (silver/gold mines)",
+        "California (gold mines)",
+        "Pennsylvania (coal mines)",
+        "Montana (copper mines)",
+        "Michigan (copper mines)"
+      ]
+    },
+    "temporal": {
+      "first_recorded": {
+        "date": "1800s",
+        "circa": true,
+        "source": "Cornish immigrant miners brought tradition"
+      },
+      "peak_activity_periods": [
+        {
+          "period": "1850s-1920s",
+          "description": "Peak of American mining boom and Cornish immigration"
+        }
+      ]
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Cornish knocker folklore brought to America by Cornish immigrant miners during 19th century mining booms.",
+      "earliest_accounts": "1800s with Cornish immigration to American mining regions",
+      "folklore_connections": "Direct cultural transmission from Cornish knocker traditions"
+    },
+    "timeline": [
+      {
+        "date": "1840s-1850s",
+        "event": "Cornish immigration begins",
+        "significance": "Cornish miners bring knocker traditions to American mines",
+        "source": "Immigration records"
+      },
+      {
+        "date": "1850s-1900s",
+        "event": "Western mining boom",
+        "significance": "Tommyknocker beliefs spread through Western mining camps",
+        "source": "Mining community records, oral histories"
+      },
+      {
+        "date": "Late 1800s-early 1900s",
+        "event": "Genuine miner belief",
+        "significance": "Miners credit tommyknockers with saving lives, reports of knocking warnings",
+        "source": "Miner testimony, mining camp folklore"
+      },
+      {
+        "date": "1987",
+        "event": "Stephen King's 'The Tommyknockers'",
+        "significance": "Horror novel reinterprets tommyknockers as malevolent aliens",
+        "source": "Published novel"
+      }
+    ],
+    "modern_era": "Tommyknocker folklore remains part of American mining heritage, particularly in Western states. Mining museums preserve the tradition. The belief has faded with decline of traditional mining but remains cultural marker of mining communities."
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Leaving lunch scraps for tommyknockers",
+        "Respecting the mine and spirits",
+        "Heeding knock warnings",
+        "Mining camp storytelling"
+      ],
+      "beliefs": "Genuine belief among American miners, especially Cornish immigrants and their descendants. Tommyknockers seen as protective spirits who could save lives.",
+      "life_saving": "Many miners credited tommyknockers with warning them before cave-ins and disasters, claiming the warnings saved their lives."
+    },
+    "cultural_sensitivity": {
+      "note": "Tommyknockers represent important American mining community tradition and Cornish immigrant cultural heritage. Part of working-class folklore and occupational culture.",
+      "respect": "Treat as legitimate cultural tradition and immigrant heritage, not mere superstition."
+    },
+    "popular_culture": {
+      "literature": [
+        "Stephen King - 'The Tommyknockers' (1987, horror novel with different interpretation)",
+        "Mining folklore collections",
+        "Regional history books"
+      ],
+      "regional": [
+        "Mining heritage museums (Colorado, Nevada, Pennsylvania)",
+        "Local festivals and heritage events",
+        "Historical mining site interpretations"
+      ]
+    }
+  },
+
+  "theories": {
+    "folklore": [
+      {
+        "name": "Protective mine spirits",
+        "description": "Tommyknockers are helpful spirits protecting miners from danger",
+        "evidence_cited": ["Miner testimony of life-saving warnings", "Oral traditions"]
+      },
+      {
+        "name": "Cultural continuity",
+        "description": "Direct continuation of Cornish knocker traditions in American context",
+        "evidence_cited": ["Cornish immigration patterns", "Cultural transmission"]
+      }
+    ],
+    "natural_explanations": [
+      {
+        "name": "Rock stress sounds",
+        "description": "Knocking sounds are rock settling and stress before cave-ins",
+        "evidence_cited": ["Geological studies", "Mine acoustics"],
+        "note": "Explains why knocking preceded cave-ins - natural warning system"
+      },
+      {
+        "name": "Psychological framework",
+        "description": "Belief provided framework for interpreting natural mine sounds as warnings, possibly saving lives",
+        "evidence_cited": ["Occupational folklore studies", "Mining psychology"]
+      }
+    ]
+  },
+
+  "sources": [
+    {
+      "id": "mining-folklore",
+      "type": "cultural",
+      "title": "American Mining Folklore Collections",
+      "description": "Various regional folklore collections from mining communities"
+    },
+    {
+      "id": "cornish-immigration",
+      "type": "historical",
+      "title": "Cornish Immigration to American Mining Regions",
+      "description": "Historical documentation of Cornish cultural transmission",
+      "date": "1800s-1900s"
+    },
+    {
+      "id": "king-1987",
+      "type": "book",
+      "title": "The Tommyknockers",
+      "authors": ["Stephen King"],
+      "publication": "Putnam",
+      "date": "1987",
+      "note": "Horror fiction reimagining, not traditional folklore"
+    }
+  ]
+}
